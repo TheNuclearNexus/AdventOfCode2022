@@ -1,0 +1,10 @@
+{
+    "name": "day1",
+    "scripts": {
+        "start": "tsc && node dist/index.js"
+    },
+    "type": "module",
+    "dependencies": {
+        "@types/node": "^18.11.10"
+    }
+}
